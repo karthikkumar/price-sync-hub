@@ -1,0 +1,24 @@
+.App {
+  max-width: 1280px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+hr {
+  width: 100%;
+  margin: 2em 0;
+}
+
+.card {
+  padding: 2em;
+  width: 100%;
+}
+
+.card form {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+}
